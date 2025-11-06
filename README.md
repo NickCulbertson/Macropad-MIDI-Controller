@@ -1,5 +1,8 @@
 # Macropad MIDI Controller
 
+*“DIY 3D-Printed MIDI Macropad | Simple Design, Hidden Features w/ Raspberry Pi Pico”*
+[![Watch the video](https://img.youtube.com/vi/rUteUrWNM18/hqdefault.jpg)](https://youtu.be/rUteUrWNM18)
+
 A versatile 16-pad MIDI controller in a 3D-printed enclosure powered by the Raspberry Pi Pico. Features multiple play modes, scales, chord voicings, and an strum mode for guitar-like playing.
 
 ## Features
