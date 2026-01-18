@@ -58,6 +58,9 @@ Organized with major/minor pairs for intuitive selection:
 ### Electronics
 - 1x Raspberry Pi Pico
 - 16x Tactile switches (6x6mm recommended)
+  I used the Brown version of these, but any switch will do (https://www.aliexpress.us/item/3256809857749295.html?channel=twinner)
+- 16x Key caps
+  I used ones like these (https://www.aliexpress.us/item/3256804338916520.html?channel=twinner)
 - 1x LED (optional, for menu indication)
 - Hookup wire
 - USB-C cable
