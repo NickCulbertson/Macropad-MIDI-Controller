@@ -65,6 +65,7 @@ Organized with major/minor pairs for intuitive selection:
 
 ### 3D Printing
 - **Enclosure**: STL files for top and bottom case
+- **TinkerCAD Project**: https://www.tinkercad.com/things/cozXzUV3U1k-macropad-3d-enclosure?sharecode=dOP0etUHuFUyWsNX5i93pWZzzT5U8fWVkWd7JMRfL1A
 - **Print Settings**:
   - Layer Height: 0.2mm
   - Infill: 20%
