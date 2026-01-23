@@ -213,5 +213,4 @@ Contributions welcome! Please feel free to submit pull requests or open issues f
 This project is open source. See LICENSE file for details.
 
 ---
-
-**Enjoy making music with your Macropad MIDI Controller!** 🎵
+*This project was developed with assistance from [Claude Code](https://code.claude.com/docs/en/overview).*
